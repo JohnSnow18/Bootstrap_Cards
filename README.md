@@ -1,4 +1,4 @@
 # Bootstrap_Cards
 Pagina web Bootstrap_Cards
 
-Debe iniciar visual basic y cargarlo de ahí
+Debe iniciar Visual Studio Code y cargar los archivos, para que funcione
